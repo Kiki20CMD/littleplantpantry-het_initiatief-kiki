@@ -1,0 +1,229 @@
+.amatic-sc-bold {
+    font-family: "Amatic SC", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+  
+.karla {
+    font-family: "Karla", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.karla300 {
+    font-family: "Karla", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.karla700 {
+    font-family: "Karla", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+nav img {
+    height: 45px;
+    padding: 2px 9px;
+    border: 2px solid #DBBD9A;
+    margin: 7px;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-right: 35px;
+    border: #376A48; 
+}
+
+body {
+    background-color: white;
+    max-width: 375px;
+}
+
+h1 {
+    font-family: "Amatic SC", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.h1producten {
+    font-family: "Amatic SC", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 45px;
+    color: #DBBD9A;
+    padding-top: 15px;
+}
+
+.h1over {
+    font-family: "Amatic SC", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 45px;
+    color: #DBBD9A;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.h1doneren {
+    font-family: "Amatic SC", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 45px;
+    color: #DBBD9A;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-left: 55px;
+    margin-right: 55px;
+}
+
+h2 {
+    font-family: "Amatic SC", sans-serif;
+    font-weight: 700;
+    font-style: normal; 
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 25px;
+    color: #376A48;
+}
+
+h3 {
+    font-family: "Karla", sans-serif;
+    font-size: 13px;
+    font-weight: 700;
+    color: #376A48;
+    text-align: center;
+    padding-top: 10px;
+    margin-bottom: 0px;
+}
+
+.logo {
+    max-width: 375px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+p {
+    font-family: "Karla", sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    color: #376A48;
+    text-align: center;
+    padding: 6px;
+    margin: 7px 47px;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.producten {
+    padding-bottom: 20px;
+}
+
+.uitleg {
+    font-family: "Karla", sans-serif;
+    font-size: 12px;
+    font-weight: 300;
+    color: #376A48;
+    text-align: center;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+.introductie {
+    margin-top: 0px;
+}
+
+.achtergrond {
+    background: linear-gradient(to bottom, #ffffff, #E7F1E0);
+    margin: 0px 0px;
+    padding: 20px 0px;
+}
+
+.productenbg1 {
+    background: #E7F1E0;
+    padding-top: 1px;
+}
+
+.productenbg2 {
+    background: #F2EEE5;
+    padding-top: 1px;
+}
+
+.productenbg3 {
+    background: white;
+    padding-top: 1px;
+}
+
+.overbg {
+    background: #F2EEE5;
+    padding-bottom: 0px;
+}
+
+.donerenbg {
+    background: #F2EEE5;
+    padding-bottom: 15px;
+}
+
+.foto1 {
+    max-width: 375px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+}
+
+.foto2 {
+    max-width: 375px;
+    margin-bottom: 0px;
+}
+
+.foto345 {
+    max-width: 375px;
+    margin-top: 7px;
+}
+
+.foto68 {
+    max-width: 375px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.foto7 {
+    max-width: 375px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+.informatie {
+    padding-bottom: 15px;
+}
+
+footer {
+    background: linear-gradient(to right, #376A48, #96C478);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 0px;
+}
+
+footer p {
+    color: white;
+    text-align: left;
+    margin-left: 20px;
+}
+
+.copyright {
+    opacity: 70%;
+    font-size: 10px;
+}
